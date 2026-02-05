@@ -3,6 +3,7 @@
 This repository contains the **CMS (Content Management System) Lab** work completed as part of the course lab requirements. It is used to upload, organize, and document all practical work performed during CMS lab sessions.
 
 ---
+---
 
 ##  Lab Objective
 
@@ -26,7 +27,7 @@ In this lab, the focus is on installing and configuring **WordPress** on a local
 ---
 
 
-## ▶️ Usage
+## Usage
 
 1. Navigate to the folder of the required lab task  
 2. Follow the steps performed and documented  
@@ -34,7 +35,7 @@ In this lab, the focus is on installing and configuring **WordPress** on a local
 
 
 
-## 🎯 Purpose
+## Purpose
 
 This repository is created for **submission and record-keeping of CMS lab assignments**.  
 It demonstrates the practical work completed during the course and serves as a reference for learning **CMS fundamentals**.
@@ -43,9 +44,13 @@ It demonstrates the practical work completed during the course and serves as a r
 
 
 
-## 📂 Repository Structure
+##  Repository Structure
 CMS-LAB/
+
 ├── Lab-Task-1/
+
 ├── Lab-Task-2/
+
 ├── Screenshots/
+
 └── README.md
