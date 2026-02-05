@@ -4,14 +4,14 @@ This repository contains the **CMS (Content Management System) Lab** work comple
 
 ---
 
-## 📌 Lab Objective
+##  Lab Objective
 
 The main objective of this lab is to learn and practice the basic setup and usage of a **Content Management System (CMS)**.  
 In this lab, the focus is on installing and configuring **WordPress** on a local server environment using **XAMPP**, and performing basic CMS operations.
 
----
 
-## 🛠️ Tasks Covered
+
+##  Tasks Covered
 
 - Step-by-step setup of **XAMPP** (Apache, MySQL, PHP)
 - Installation and configuration of **WordPress**
@@ -25,7 +25,6 @@ In this lab, the focus is on installing and configuring **WordPress** on a local
 
 ---
 
----
 
 ## ▶️ Usage
 
@@ -33,7 +32,7 @@ In this lab, the focus is on installing and configuring **WordPress** on a local
 2. Follow the steps performed and documented  
 3. Review screenshots and notes to understand each procedure  
 
----
+
 
 ## 🎯 Purpose
 
@@ -45,4 +44,8 @@ It demonstrates the practical work completed during the course and serves as a r
 
 
 ## 📂 Repository Structure
-
+CMS-LAB/
+├── Lab-Task-1/
+├── Lab-Task-2/
+├── Screenshots/
+└── README.md
