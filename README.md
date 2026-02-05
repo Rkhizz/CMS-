@@ -1,28 +1,48 @@
-# CMS- 
-CMS LAB
-This repository contains the CMS (Content Management System) Lab work completed as part of the lab tasks assigned in the course. It is used to upload and document all practical work performed during the CMS lab sessions.
-Lab Objective
-The main goal of this lab is to learn and practice the basic setup and usage of a Content Management System. In this lab, we focus on installing and configuring WordPress on a local server environment using XAMPP, and performing basic CMS operations.
-Tasks done 
-Step-by-step setup of XAMPP (Apache, MySQL, PHP)
-Installation and configuration of WordPress
-Database setup using phpMyAdmin
-Basic CMS activities — creating posts, pages, users, themes, and plugins
-Screenshots and documentation for each lab task
-CMS-LAB/
-├── Lab-Task-1/
-├── Lab-Task-2/
-├── Screenshots/
-└── README.md
+# CMS LAB
 
-Usage
+This repository contains the **CMS (Content Management System) Lab** work completed as part of the course lab requirements. It is used to upload, organize, and document all practical work performed during CMS lab sessions.
 
-Navigate to the folder for each lab task
+---
 
-Follow the steps performed and documented
+## 📌 Lab Objective
 
-View screenshots and notes to understand the procedures
+The main objective of this lab is to learn and practice the basic setup and usage of a **Content Management System (CMS)**.  
+In this lab, the focus is on installing and configuring **WordPress** on a local server environment using **XAMPP**, and performing basic CMS operations.
 
-Purpose
+---
 
-This repository is created for submission and record-keeping of lab assignments. It helps demonstrate the work done and serves as a reference for learning CMS fundamentals throughout the course.
+## 🛠️ Tasks Covered
+
+- Step-by-step setup of **XAMPP** (Apache, MySQL, PHP)
+- Installation and configuration of **WordPress**
+- Database creation and setup using **phpMyAdmin**
+- Basic CMS activities:
+  - Creating posts and pages
+  - Managing users
+  - Installing themes
+  - Installing and configuring plugins
+- Screenshots and documentation for each lab task
+
+---
+
+---
+
+## ▶️ Usage
+
+1. Navigate to the folder of the required lab task  
+2. Follow the steps performed and documented  
+3. Review screenshots and notes to understand each procedure  
+
+---
+
+## 🎯 Purpose
+
+This repository is created for **submission and record-keeping of CMS lab assignments**.  
+It demonstrates the practical work completed during the course and serves as a reference for learning **CMS fundamentals**.
+
+---
+
+
+
+## 📂 Repository Structure
+
